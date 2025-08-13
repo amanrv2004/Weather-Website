@@ -58,6 +58,7 @@ h1.appName {
   color: #181717;
   padding: 10px;
   font-size: 16px;
+  text-transform: capitalize;
 }
 
 .search-btn {
